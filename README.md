@@ -61,10 +61,4 @@ The model achieves high accuracy on the validation data and provides detailed cl
 
 
 
-## 📄 License
 
-This project is for educational purposes.
-
----
-
-Let me know if you want it to include additional details like charts, contributor sections, or badges.
